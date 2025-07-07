@@ -42,9 +42,10 @@ pip install -r requirements.txt
 
 2. Jalankan Streamlit
 
-cd dashboard
-streamlit run app.py
+`cd dashboard`
+`streamlit run app.py`
 
 ## Dataset
 Dataset yang digunakan adalah dataset publik dari Olist:
+
 Download dari: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
